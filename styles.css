@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+#main {
+    padding: 20px;
+}
+
+#title {
+    font-size: 48px;
+    text-align: center;
+}
+
+#image-div {
+    width: 100%;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+#tribute-info {
+    width: 90%;
+    margin: 40px auto;
+}
+
+#tribute-link {
+    width: 100%;
+    margin: auto;
+}
